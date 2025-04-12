@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 Hi there, I'm Amirhossein Salehi!
 
-<!--
-**amir-git-hub-code/amir-git-hub-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥️ React Developer | 🚀 Embedded Systems Enthusiast | 🌐 IoT Explorer
 
-Here are some ideas to get you started:
+I'm passionate about combining **modern front-end development** with **hardware integration**. I love building smart, connected systems that live on beautiful dashboards. My recent work focuses on full-stack **IoT and monitoring solutions** using ESP32, MQTT, SNMP, and **React.js**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack:
+- **Languages:** JavaScript (React), C/C++ (Arduino), Python
+- **Frontend:** React, Tailwind CSS, Vite, Chart.js, shadcn/ui
+- **Embedded Systems:** ESP32, DHT11/DHT22, PZEM-004T, ZMPT101B
+- **Protocols & IoT:** MQTT, SNMP, WebSocket
+- **Tools:** VS Code, Git, Altium Designer, Fritzing
+
+---
+
+### 📌 Current Projects:
+- 🔧 **Server Room Monitoring System** — Full-featured dashboard with real-time environmental, power, and network data.
+- 📡 MQTT-controlled automation — e.g., LED toggling via React UI.
+- 📊 Responsive UI dashboard for sensor and network data.
+
+---
+
+### 📫 Let’s Connect:
+- GitHub: [amirhossein-salehi](https://github.com/amirhossein-salehi)
+- Email: amiamirsalehi@gmail.com
+
+---
+
+> *"From the circuit board to the browser — I build systems that talk."*
