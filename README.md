@@ -23,7 +23,7 @@ I'm passionate about combining **modern front-end development** with **hardware 
 ---
 
 ### 📫 Let’s Connect:
-- GitHub: [amirhossein-salehi](https://github.com/amirhossein-salehi)
+- GitHub: [amirhossein-salehi](https://github.com/amirsalehi-tech)
 - Email: amiamirsalehi@gmail.com
 
 ---
